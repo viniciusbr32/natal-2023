@@ -1,0 +1,28 @@
+
+* {
+
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  
+}
+
+body {
+
+  font-size:62.5%;
+
+}
+
+a {
+
+  color: inherit;
+}
+
+.container {
+
+  max-width: 1400px;
+  padding: 0 2rem 0 2rem;
+  margin: 0 auto;
+}

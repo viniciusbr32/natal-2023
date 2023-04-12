@@ -1,0 +1,42 @@
+.logo {
+
+  font: 500 2.4rem/36px 'Poppins', sans-serif;
+
+}
+
+.links,
+.p {
+
+  font: 500 1.6rem/24px 'Poppins', sans-serif;
+
+}
+
+.title-h1 {
+
+  font: 600 4.5rem/1.08 'Poppins', sans-serif;
+
+}
+
+
+
+
+
+@media (max-width:1000px) {
+
+  .title-h1 {
+
+    font: 600 3.5rem/1.08 'Poppins', sans-serif;
+  
+  }
+
+  .links,
+.p {
+
+  font: 500 1.4rem/24px 'Poppins', sans-serif;
+
+}
+
+
+
+
+}

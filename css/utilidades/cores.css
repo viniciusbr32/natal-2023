@@ -1,0 +1,48 @@
+:root {
+
+  --red:#DA2535;
+  --pink:#F7C7B9;
+  --gray:#8D8D8D;
+  --gray-200:#404040;
+  --black-night:#161212;
+  --white:#F9F9F9;
+
+}
+
+.red {
+
+  color: var(--red);
+
+}
+
+
+.pink{
+
+  color: var(--pink);
+
+}
+
+.dark-200 {
+
+  color: var(--gray-200);
+
+}
+
+.gray-200 {
+
+  color: var(--gray-200);
+
+}
+
+.white {
+
+  color: var(--white);
+
+}
+
+.black-night {
+
+  color: var(--black-night);
+
+}
+

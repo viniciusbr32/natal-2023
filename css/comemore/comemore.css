@@ -1,0 +1,45 @@
+.comemoracoes-bg  {
+
+  background: var(--pink);
+}
+
+.comemoracoes-container {
+
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+}
+
+.comemoracoes-conteudo {
+
+  width: 457px;
+ 
+}
+
+.h2-comemoracoes {
+
+  margin-bottom: 2.4rem;
+
+}
+
+.p-comemoracoes {
+
+  margin-bottom: 3.2rem;
+}
+
+
+@media (max-width:700px) {
+
+  .comemoracoes-container {
+
+    padding: 5rem 0;
+    justify-content: center;
+    text-align: center;
+  }
+  .img-comemoracoes {
+
+    display: none;
+  }
+
+  }

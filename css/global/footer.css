@@ -1,0 +1,51 @@
+.footer-conteudo {
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5rem 2rem;
+}
+
+.footer-sociais {
+
+  display: flex;
+  align-items: center;
+  gap: 4rem;
+  
+}
+
+.social {
+
+  position: relative;
+}
+
+.rede {
+
+  position: absolute;
+  top: 8px;
+  left: 7px;
+  
+}
+
+
+
+@media (max-width:700px) {
+
+  .footer-conteudo {
+
+    display: block;
+    text-align: center;
+    
+  }
+
+  .footer-conteudo .logo {
+
+    display: none;
+  }
+
+  .footer-sociais {
+
+    padding: 2rem 2rem;
+    justify-content: center;
+  }
+}

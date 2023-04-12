@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Saira:wght@400;500;600;700&display=swap');
+
+@import url(./global/global.css);
+@import url(./utilidades/cores.css);
+@import url(./utilidades/tipografia.css);
+@import url(./utilidades/componente.css);
+@import url(/css/global/header.css);
+
+
+
+/*home*/
+
+@import url(/css/home/home.css);
+@import url(/css/global/footer.css);
+
+
+/*Acessorios*/
+@import url(/css/acessorios/acessorios.css);
+
+/*comemore*/
+
+@import url(/css/comemore/comemore.css);
+
+
+
+html {
+
+  font-size: 62.5%;
+  
+}
