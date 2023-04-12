@@ -40,3 +40,13 @@
 
 
 }
+
+
+@media (max-width:400px) {
+
+  .p {
+
+    font: 500 1.3rem/24px 'Poppins', sans-serif;
+  
+  }
+}
